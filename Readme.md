@@ -1,16 +1,3 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-
 
 ##
 
@@ -115,11 +102,9 @@ Run Matches.java class - To print the required output.
 
 ##
 
-### Contact
-[Sachin Rokade](https://www.linkedin.com/in/sachin-%E3%82%B5%E3%83%81%E3%83%B3-rokade-%E3%83%AD%E3%82%AB%E3%83%87-74478518a/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-%e3%82%b5%e3%83%81%e3%83%b3-rokade-%e3%83%ad%e3%82%ab%e3%83%87-74478518a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-%e3%82%b5%e3%83%81%e3%83%b3-rokade-%e3%83%ad%e3%82%ab%e3%83%87-74478518a/" height="30" width="40" /></a>
 </p>
+[Sachin Rokade](https://www.linkedin.com/in/sachin-%E3%82%B5%E3%83%81%E3%83%B3-rokade-%E3%83%AD%E3%82%AB%E3%83%87-74478518a/)
 
